@@ -1,4 +1,4 @@
-var reloj{
+class reloj{
     constructor(){
       setInterval(()=>{
         console.log('hello world');
